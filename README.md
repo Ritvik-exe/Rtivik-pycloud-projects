@@ -1,6 +1,6 @@
 # Rtivik-pycloud-projects
 
-# EC2 Instance Monitoring Tool
+# 1. EC2 Instance Monitoring Tool
 
 This Python script uses the Boto3 SDK to connect to AWS EC2 and provide a detailed inventory report.
 
